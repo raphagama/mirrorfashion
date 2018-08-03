@@ -33,6 +33,11 @@ body{
     font-size: 15px;
 }
 
+.menu-opcoes ul li{
+    display: inline;
+    margin-left: 20px;
+}
+
 .menu-opcoes a{
     color: #036
 }
