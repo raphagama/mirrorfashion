@@ -30,6 +30,8 @@ ul#album-fotos li span{
 
 ul#abum-fotos li:hover span{
     opacity: 1;
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
 }
 
 ul#album-fotos li#foto01{
