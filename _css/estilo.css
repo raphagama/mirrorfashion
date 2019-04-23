@@ -207,6 +207,13 @@ table#tabelaspec caption span{
     margin-top: 10px;
 }
 
+video#filme01 {
+    display: block;
+    position: relative;
+    margin: auto;
+    width: 450px;
+}
+
 aside#lateral{
     display: block;
     width: 480px;
@@ -222,6 +229,13 @@ aside#lateral h1{
     font-size: 20pt;
     color: #606060;
     margin-top: 0px;
+}
+
+video#filme02 {
+    display: block;
+    position: relative;
+    margin: auto;
+    width: 450px;
 }
 
 aside#lateral h2{
